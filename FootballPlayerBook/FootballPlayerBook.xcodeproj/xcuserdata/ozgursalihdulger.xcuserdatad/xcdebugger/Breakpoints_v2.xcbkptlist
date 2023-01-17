@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2CBC4B1A-A511-4E16-8255-04D4269781FC"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C76754B0-90E8-4F8F-9D35-CF1724B6BD5E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FootballPlayerBook/DetailsVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "DetailsVC"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "C76754B0-90E8-4F8F-9D35-CF1724B6BD5E - 502e61a0f37ef725"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FootballPlayerBook.DetailsVC.teamText.getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "FootballPlayerBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ozgursalihdulger/Desktop/MyFirstApp/FootballPlayerBook/FootballPlayerBook/DetailsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "C76754B0-90E8-4F8F-9D35-CF1724B6BD5E - e0586b1c0fbda331"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FootballPlayerBook.DetailsVC.teamText.setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "FootballPlayerBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ozgursalihdulger/Desktop/MyFirstApp/FootballPlayerBook/FootballPlayerBook/DetailsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "C76754B0-90E8-4F8F-9D35-CF1724B6BD5E - 938a8c8c93eb9820"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FootballPlayerBook.DetailsVC.teamText.modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "FootballPlayerBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ozgursalihdulger/Desktop/MyFirstApp/FootballPlayerBook/FootballPlayerBook/DetailsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "C76754B0-90E8-4F8F-9D35-CF1724B6BD5E - b395fe685674ba1a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FootballPlayerBook.DetailsVC.teamText.modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "FootballPlayerBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ozgursalihdulger/Desktop/MyFirstApp/FootballPlayerBook/FootballPlayerBook/DetailsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "C76754B0-90E8-4F8F-9D35-CF1724B6BD5E - a5665e6b71da564a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FootballPlayerBook.DetailsVC.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; FootballPlayerBook.DetailsVC"
+                  moduleName = "FootballPlayerBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ozgursalihdulger/Desktop/MyFirstApp/FootballPlayerBook/FootballPlayerBook/DetailsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "192">
+               </Location>
+               <Location
+                  uuid = "C76754B0-90E8-4F8F-9D35-CF1724B6BD5E - 825d583bbf4280d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FootballPlayerBook.DetailsVC.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;FootballPlayerBook.DetailsVC&gt;"
+                  moduleName = "FootballPlayerBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ozgursalihdulger/Desktop/MyFirstApp/FootballPlayerBook/FootballPlayerBook/DetailsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "168">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
